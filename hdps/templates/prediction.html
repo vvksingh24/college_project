@@ -1,0 +1,94 @@
+{% load staticfiles %}
+  <!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>HDPS | Heart Disease Prediction System</title>
+
+    <meta name="keywords" content="Heart Disease Prediction System" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,900,800%7CRoboto:400,300,500,700,900%7COswald:400,700,300%7CMontserrat' rel='stylesheet' type='text/css'>
+
+
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+
+</head>
+
+<body class="result">
+
+
+ <div class="container-fluid box-result">
+     <div class="row">
+         <div class="col-sm-6 result-input">
+
+          <form  method="POST" class="form-inline" style="text-align: center;" action="{% url 'hdps:result'  prediction %}">
+            {% csrf_token %} 
+    <div class="form-group">
+      <input class="form-control fmg" placeholder="Age"  name="{{form.age.name}}"  >
+    </div>
+    <div class="form-group">
+      <input  name="{{form.sex.name}}"class="form-control fmg"  placeholder="sex"   >
+    </div>
+    <div class="form-group">
+     <input   name="{{form.cp.name}}" class="form-control fmg"  placeholder="chest pain"   >
+    </div>
+    <div class="form-group">
+      <input  name="{{form.tresbps.name}}" class="form-control fmg" placeholder="trestbps"   >
+    </div>
+    <div class="form-group">
+     <input  name="{{form.chol.name}}" class="form-control fmg"  placeholder="chol"   >
+    </div>
+    <div class="form-group">
+      <input name="{{form.fbs.name}}" class="form-control fmg"  placeholder="fbs"   >
+    </div>
+    <div class="form-group">
+     <input  name="{{form.restecg.name}}" class="form-control fmg"  placeholder="restecg"   >
+    </div>
+
+              <div class="form-group">
+               <input  name="{{form.thalach.name}}" class="form-control fmg"  placeholder="thalach"   >
+    </div>
+    <div class="form-group">
+      <input  name="{{form.exang.name}}" class="form-control fmg"  placeholder="exang"   >
+    </div>
+    <div class="form-group">
+     <input  name="{{form.oldpeak.name}}" class="form-control fmg"  placeholder="oldpeak" >
+    </div>
+    <div class="form-group">
+      <input  name="{{form.slope.name}}" class="form-control fmg"  placeholder="slope"   >
+    </div>
+
+    <div class="form-group">
+     <input  name="{{form.ca.name}}" class="form-control fmg"  placeholder="ca"   >
+    </div>
+    <div class="form-group">
+      <input name="{{form.thal.name}}" class="form-control fmg"  placeholder="thal"   >
+    </div>
+
+    <div><button type="submit" class="btn addBtn1">Submit</button></div>
+   
+
+  </form>
+   </div>
+
+   <div class="col-sm-6 bg"></div>
+
+
+   </div>
+
+
+
+
+                </div>
+     
+</body>
+
+</html>

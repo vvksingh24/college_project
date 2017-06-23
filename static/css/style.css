@@ -1,0 +1,126 @@
+.login{
+	background-color:#eeeeee;
+}
+
+
+      .result{
+
+  background-color: #eee;
+}
+
+.bg{
+      background-image: url("../img/hh1.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+ height:650px;
+  background-position: -225px 0px;
+}
+
+
+.box{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) !important; 
+    transition: 0.3s !important;
+    margin:80px 100px 80px 100px !important ;
+    background-color: #fff !important;
+}
+
+.box-login{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: #fff;
+}
+
+.box-result{
+	    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin:30px;
+	  background-color:#fff;
+
+}
+
+.result-input{
+		padding: 20px 40px;
+		margin-top: 80px;
+}
+.form-inline div{
+  padding: 10px;
+}
+.h-img{
+	max-width: 450px;
+}
+.c-1{
+	border-right: 2px solid #eeeeee; 
+	text-align: center;
+}
+.c-2{
+	padding:50px 100px;
+	margin-top: 80px;
+}
+.fmg{
+	border-radius: 0;
+	outline: none;
+	border: 1px solid #eee;
+}
+.form-group input{
+
+   -webkit-box-shadow:none !important;
+       -moz-box-shadow:none !important;
+            box-shadow:none !important;
+
+}
+
+.form-control:focus {
+    border-color: #000;
+}
+
+.addBtn {
+    padding: 10.8px;
+    width: 100%;
+    background:#e43637;
+    color:#fff;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0; 
+}
+
+.addBtn:hover {
+    background-color:#c71a19;
+    color: #fff;
+}
+
+.addBtn1 {
+    padding: 10.8px;
+    background:#e43637;
+    color:#fff;
+    width: 425px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0; 
+}
+
+.addBtn1:hover {
+    background-color:#c71a19;
+    color: #fff;
+}
+
+
+.h-text{
+ font-family:roboto;
+	text-align: center;
+	padding: 20px;
+	font-size: 25px;
+	text-transform: uppercase;
+
+}
+.signup{
+	margin-top: 75px;
+	color: #555;
+}
+.signup:hover{
+  cursor:pointer;
+}

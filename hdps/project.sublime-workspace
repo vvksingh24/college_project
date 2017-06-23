@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"POST"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pre",
+				"prediction"
+			],
+			[
+				"pr",
+				"prediction"
+			],
+			[
+				"tha",
+				"thal"
+			],
+			[
+				"e",
+				"exang"
+			],
+			[
+				"X",
+				"X_validation"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"thal",
+				"thalach"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"cp",
+				"cp"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"se",
+				"sex"
+			],
+			[
+				"I",
+				"IntegerField"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bla",
+				"black"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"pl",
+				"placeholder"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ima",
+				"imagee"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"create"
+			],
+			[
+				"vie",
+				"views"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"C",
+				"ContentFile"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"questio",
+				"question"
+			],
+			[
+				"p",
+				"previous"
+			],
+			[
+				"tes",
+				"testpk"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"question",
+				"questions"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"Tes",
+				"Test"
+			],
+			[
+				"Test",
+				"test"
+			],
+			[
+				"A",
+				"AnswerInline"
+			],
+			[
+				"Q",
+				"Questions"
+			],
+			[
+				"Te",
+				"TestAdmin"
+			],
+			[
+				"S",
+				"StackedInline"
+			],
+			[
+				"up",
+				"upload_to"
+			],
+			[
+				"fi",
+				"FileField"
+			],
+			[
+				"an",
+				"answer_file"
+			],
+			[
+				"B",
+				"BooleanField"
+			],
+			[
+				"login_",
+				"login_url"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"rea",
+				"related_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vivek/Desktop/project/src/hdps/models.py",
+		"/home/vivek/Desktop/project/src/hdps/forms.py",
+		"/home/vivek/Desktop/project/src/hdps/views.py",
+		"/home/vivek/Desktop/project/src/hdps/templates/index.html",
+		"/home/vivek/Desktop/project/src/hdps/urls.py",
+		"/home/vivek/Desktop/project/src/src/settings.py",
+		"/home/vivek/Desktop/project/src/hdps/templates/prediction.html",
+		"/home/vivek/Desktop/project/src/hdps/templates/result.html",
+		"/home/vivek/Desktop/project/src/src/urls.py",
+		"/home/vivek/Desktop/index.html",
+		"/home/vivek/Desktop/justgo/page4.html",
+		"/home/vivek/Desktop/vivek/index.html",
+		"/home/vivek/Desktop/vivek/css/style.css",
+		"/home/vivek/Desktop/justgo/page3.html",
+		"/home/vivek/Desktop/justgo/css/style.css",
+		"/home/vivek/Desktop/justgo/page2.html",
+		"/home/vivek/Desktop/faltu.py",
+		"/home/vivek/Desktop/dietician/css/style.css",
+		"/home/vivek/Desktop/dietician/index (1).html",
+		"/home/vivek/.config/composer/vendor/autoload.php",
+		"/home/vivek/Downloads/installer",
+		"/home/vivek/Downloads/GOT/bootstrap/autoload.php",
+		"/home/vivek/Downloads/GOT/app/Http/Controllers/ListController.php",
+		"/home/vivek/Downloads/GOT/resources/views/auth/passwords/reset.blade.php",
+		"/home/vivek/Downloads/GOT/app/Http/routes.php",
+		"/home/vivek/Downloads/GOT/resources/views/auth/login.blade.php",
+		"/home/vivek/Downloads/GOT/resources/views/welcome.blade.php",
+		"/home/vivek/Downloads/GOT/resources/views/home.blade.php",
+		"/home/vivek/Downloads/GOT/app/routes.php",
+		"/home/vivek/Downloads/GOT/app/first.php",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/signup.html",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/templates/cv/create.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/New Empty File",
+		"/home/vivek/Desktop/rec/myproject/hiring/views.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/forms.py",
+		"/home/vivek/Desktop/rec/myproject/static/css/bootstrap.min.css",
+		"/home/vivek/Desktop/justgo/index.html",
+		"/home/vivek/Downloads/vvk/index.html",
+		"/home/vivek/Downloads/vvk/css/style.css",
+		"/home/vivek/.cache/.fr-ggRW42/vvk/css/style.css",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/urls.py",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/views.py",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/forms.py",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/models.py",
+		"/home/vivek/Desktop/Untitled Folder/mysite/static/js/formset.js",
+		"/home/vivek/Desktop/Untitled Folder/mysite/static/js/jquery.formset.js",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/templates/cv/file.html",
+		"/home/vivek/Downloads/Image-Upload-Preview-Plugin-With-jQuery-Bootstrap-img-upload/index.html",
+		"/home/vivek/Desktop/Untitled Folder/mysite/cv/templates/cv/<div class='container'>.html",
+		"/home/vivek/Desktop/Untitled Folder/mysite/static/css/form.css",
+		"/home/vivek/Desktop/Untitled Folder/mysite/mysite/urls.py",
+		"/home/vivek/Desktop/rec/myproject/myproject/settings.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/event.html",
+		"/home/vivek/Documents/scrappy/tutorial/tutorial/spiders/q_spider.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/home.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/admin.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/agree.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/Questionframe.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/test.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/templatetags/hiring_extras.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/templates/hiring/solutionframe.html",
+		"/home/vivek/Desktop/rec/myproject/hiring/urls.py",
+		"/home/vivek/Desktop/rec/myproject/hiring/models.py",
+		"/home/vivek/Desktop/rec/myproject/myproject/urls.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"type",
+			"form.cleaned_data",
+			"True",
+			"required",
+			"floatfield",
+			"li",
+			"h3",
+			"label",
+			"image",
+			"md",
+			"form",
+			";\n",
+			"images",
+			"header",
+			"navbar-fixed-top",
+			"parallax",
+			"carousel",
+			"opa",
+			"sm",
+			"xs",
+			"md",
+			"label",
+			"carousel-inner",
+			"col-sm-1",
+			"/*# sourceMappingURL=bootstrap.css.map */",
+			"160",
+			"170",
+			"150",
+			"130",
+			"perce",
+			"print",
+			"next",
+			"urandom",
+			"title",
+			"question"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100",
+			"160",
+			"170",
+			"150"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 751.0,
+		"selected_items":
+		[
+		],
+		"width": 1280.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
